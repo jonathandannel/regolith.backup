@@ -1,10 +1,10 @@
-! Typeface: JetBrains Mono
-#define typeface_bar_glyph  JetBrains Mono 11
-#define typeface_wm         pango:JetBrains Mono 11
-#define typeface_bar        pango:JetBrains Mono 11, Material Design Icons 11
-#define typeface_rofi       JetBrains Mono 11
+! Typeface: MesloLGLDZ Nerd Font Regular
+#define typeface_bar_glyph  MesloLGLDZ Nerd Font Regular 10
+#define typeface_wm         pango:MesloLGLDZ Nerd Font Regular 10
+#define typeface_bar        pango:MesloLGLDZ Nerd Font Regular 10, Material Design Icons 10
+#define typeface_rofi       MesloLGLDZ Nerd Font Regular 10
 #define typeface_terminal   JetBrains Mono:pixelsize=11:antialias=true:autohint=true
-#define typeface_gnome_terminal JetBrains Mono 11
+#define typeface_gnome_terminal JetBrains Mono 10
 
 #define typeface_bar_glyph_battery_0 
 #define typeface_bar_glyph_battery_100 

@@ -1,6 +1,6 @@
 #define gtk_theme           Pop-dark
 #define icon_theme          Arc
-#define desktop_wallpaper   /usr/share/backgrounds/ESP_016895_1525_desktop.jpg
+#define desktop_wallpaper   /usr/share/backgrounds/glitch.jpg
 #define rofi_theme          /etc/regolith/styles/lascaille/rofi.rasi
 #define theme_terminal_scrollbar never
 
