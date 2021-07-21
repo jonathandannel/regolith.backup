@@ -1,0 +1,28 @@
+{
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["k", "j"],
+      "after": ["<esc>"]
+    },
+    {
+      "before": ["j", "k"],
+      "after": ["<esc>"]
+    }
+  ],
+  "editor.fontSize": 12,
+  "editor.renderWhitespace": "none",
+  "window.menuBarVisibility": "toggle",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.lineNumbers": "relative",
+  "editor.highlightActiveIndentGuide": false,
+  "editor.renderIndentGuides": false,
+  "workbench.colorTheme": "Gruvbox ish Dark Hard",
+  "workbench.editor.showTabs": false,
+  "vim.useSystemClipboard": true,
+  "editor.minimap.enabled": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.zoomLevel": -1
+}
+
